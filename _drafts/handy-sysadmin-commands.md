@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Handy Sysadmin Commands
+title: Handy Sysadmin Cheatbook
+categories:
+- General-tech
+- Misc
+tags:
+- General-tech
+- Powershell
+- Linux
+- Bash
+- Cheat Sheet
 ---
 
-This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work.
+This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work. I will be adding in more categories to the cheatbook in the future.
 
-<div id="myExcelDiv" style="width: 700px; height: 800px">
-<!-- * This code uses the Microsoft Office Excel Javascript object model to programmatically insert the
-	 * Excel Web App into a div with id=myExcelDiv. The full API is documented at
-	 * https://msdn.microsoft.com/en-US/library/hh315812.aspx. There you can find out how to programmatically get
-	 * values from your Excel file and how to use the rest of the object model. -->
-<script type="text/javascript" src="https://onedrive.live.com/embed?resid=3AC474C28157D633%21343103&authkey=%21APtVIPwpf9WGmas&em=3&wdItem=%22'HandySysAdmin'!A%3AXFD%22&wdDivId=%22myExcelDiv%22&wdDownloadButton=1">
-
-</script>
-</div>
+Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.com/spreadsheets/d/1ma_Zrw_muORAMhoIJ6LgknzkJnEtAdWdk4b6k6LF5mI/edit?usp=sharing)
+<!-- width="700" height="900" frameborder="0" scrolling="no" -->
+<iframe width="700" height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiSgD6qKf3_YvW30kzh8F0TqxlrKnj-NHO60CM_Oj8fq8etO66BDEyWM329ztpO1biYcHnp1zSCg_C/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
