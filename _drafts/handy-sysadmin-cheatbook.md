@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handy Sysadmin Cheatbook
+title: Handy Sysadmin Cheatbook 📜
 categories:
 - General-tech
 - Misc
