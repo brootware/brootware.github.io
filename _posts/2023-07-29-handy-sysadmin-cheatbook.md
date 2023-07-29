@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handy Sysadmin Cheatbook 📜
+title: "Handy Sysadmin Cheatbook \U0001F4DC"
 categories:
 - General-tech
 - Misc
@@ -10,11 +10,11 @@ tags:
 - Linux
 - Bash
 - Cheat Sheet
+date: 2023-07-29 11:08 +0800
 ---
-
 This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work. I will be adding in more categories to the cheatbook in the future.
 
-> For most of the long linux commands, I'd suggest using alias that are setup together with [dotfiles](https://github.com/brootware/dotfiles)
+> For most of the long linux commands, I'd suggest using aliases that can be setup together with [dotfiles](https://github.com/brootware/dotfiles)
 {: .prompt-tip }
 
 Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.com/spreadsheets/d/1ma_Zrw_muORAMhoIJ6LgknzkJnEtAdWdk4b6k6LF5mI/edit?usp=sharing)
