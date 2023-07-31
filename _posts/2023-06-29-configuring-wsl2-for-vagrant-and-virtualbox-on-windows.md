@@ -27,7 +27,12 @@ Below are the steps in order. Do note that **vagrant versions installed on both 
 * Add these environment variables to either `.bashrc` or `.zshrc`
 
 ```bash
-echo 'export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1" \nexport PATH="$PATH:/c/Program Files/Oracle/VirtualBox"' >> ~/.bashrc
+echo 'export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"' >> ~/.bashrc 
+# Wsl2's mnt gets updated as of 31/7/2023. Check this path again if you are not able to run vagrant
+echo 'export PATH="$PATH:/c/Program Files/Oracle/VirtualBox"' >> ~/.bashrc
+
+echo 'export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"' >> ~/.zshrc
+echo 'export PATH="$PATH:/c/Program Files/Oracle/VirtualBox"' >> ~/.zshrc
 ```
 
 This should set everything up to run vagrant with virtualbox from wsl2 in Windows.
