@@ -10,9 +10,8 @@ Welcome! This is a personal blog site to share my CTF writeups, Cyber Defense (B
 
 ## Specialized in
 
-- Cloud, DevOps / Site Reliability Engineering
+- Cyber Security, Platform & Site Reliability Engineering
 - Engineering productivity tools mainly focusing on Software Development and Security testing. [More details here](https://brootware.github.io/categories/security-toolkit/).
-- Cyber Security (Blue Team)
 
 ## Some of my credentials
 
