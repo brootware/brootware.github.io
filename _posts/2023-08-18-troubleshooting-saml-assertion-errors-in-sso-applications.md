@@ -3,7 +3,7 @@ layout: post
 title: Troubleshooting SAML assertion errors in SSO applications
 categories:
 - General-tech
-- Misc
+- Web-applications
 tags:
 - General-tech
 - Web-applications
