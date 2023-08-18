@@ -17,11 +17,14 @@ This is a quick blog entry to note down the steps I had gone through to refer ba
 
 # Setting up a new machine and automating tasks
 
+## Installing vagrant from wsl2
+
 Below are the steps in order. Do note that **vagrant versions installed on both Windows Native and WSL2 has to be same** for this to work.
 * Enable WSL2 from additional window feature.
-* Install Vagrant on Windows and on WSL2 according to your linux distro https://developer.hashicorp.com/vagrant/downloads.
-* Check for the version of vagrant installed by running `vagrant -v` in powershell and WSL2.
-* Ensure they are the same version.
+* Install vagrant in windows powershell via `winget` or `choco` or `scoop`.
+* Install virtualbox in windows.
+* Install Vagrant WSL2 according to your linux distro https://developer.hashicorp.com/vagrant/downloads.
+* Check for the version of vagrant installed by running `vagrant -v` in powershell and WSL2. Ensure they are the same version.
 * If not, go directly to source URL to download the same versions of windows msi and linux package to install locally. https://releases.hashicorp.com/vagrant
   * Windows installation will end with `*.msi` and Ubuntu would be `*.deb`.
 * Add these environment variables to either `.bashrc` or `.zshrc`
@@ -36,6 +39,10 @@ echo 'export PATH="$PATH:/c/Program Files/Oracle/VirtualBox"' >> ~/.zshrc
 ```
 
 This should set everything up to run vagrant with virtualbox from wsl2 in Windows.
+
+## A note on using vagrant with wsl2
+
+You will need to run the vagrant operations like `vagrant up` commands on the windows file system and not within the WSL2 file system.
 
 # Source
  - https://developer.hashicorp.com/vagrant/docs/other/wsl
