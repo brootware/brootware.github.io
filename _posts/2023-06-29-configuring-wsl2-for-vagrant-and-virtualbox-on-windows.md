@@ -44,5 +44,11 @@ This should set everything up to run vagrant with virtualbox from wsl2 in Window
 
 You will need to run the vagrant operations like `vagrant up` commands on the windows file system and not within the WSL2 file system.
 
+The path to the user's home directory in windows would be something like below
+
+```bash
+/c/Users/<username>
+```
+
 # Source
  - https://developer.hashicorp.com/vagrant/docs/other/wsl
