@@ -6,7 +6,7 @@ order: 4
 
 ## What's this blog about?
 
-Welcome! This is a personal blog site to share my CTF writeups, Cyber Defense (Blue) Team Techniques, other side projects and research. You may find me on various CTF sites or social media platforms as **brootware** or **rootware**
+Welcome! This is a personal blog site to share my CTF writeups, Cyber Defense (Blue Team) Techniques, other side projects and research. You may find me on various CTF sites or social media platforms as **brootware** or **rootware**
 
 ## Specialized in
 
