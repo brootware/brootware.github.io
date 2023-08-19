@@ -20,9 +20,9 @@ Security Assertion Markup Language (SAML) is an open standard for exchanging aut
 
 ## Troubleshooting
 
-This blog is going to be focusing on a scenario where as a security admin you're troubleshooting SAML request and assertion errors related to TLS certificates. This corresponds to the step 3 of the authentication flow as highlighted below.
+This blog is going to be focusing on a scenario where as a security admin you're troubleshooting SAML request and assertion errors related to TLS certificates. This corresponds to the step 2 through 6 of the authentication flow as highlighted below.
 
-![SamlHighlight](https://onedrive.live.com/embed?resid=3ac474c28157d633%21343261&authkey=%21AN7_NiCgukv7A_4&width=987&height=517)
+![SamlHighlight](https://onedrive.live.com/embed?resid=3ac474c28157d633%21343270&authkey=%21ANjGxaT8kBOAFnk&width=790&height=412)
 
 We will be going through how we can capture and look for the SAML request via browser's developer console to examine the request.
 
