@@ -16,7 +16,7 @@ date: 2023-08-18 18:09 +0800
 
 Security Assertion Markup Language (SAML) is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and an application or a web service. It is the back bone of Single Sign On (SSO) authentication to an application. There are a lot of identity providers in the market. The general flow of an authentication process amongst them is more or less the same described in the below flowchart from Okta.
 
-![SamlFlow](https://developer.okta.com/img/saml/saml_guidance_saml_flow.png)
+![SamlFlow](https://onedrive.live.com/embed?resid=3ac474c28157d633%21343259&authkey=%21ANCLchohsvi7aG4&width=793&height=414)
 
 ## Troubleshooting
 
