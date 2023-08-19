@@ -44,7 +44,7 @@ Look for the `Payload` tab and you will see the `SAMLRequest:` with a large text
 
 ### Decoding the SAMLRequest:
 
-Right-click on the `SAMLRequest:` payload --> click on `copy value`` and paste it into the text file. Decode the base64 encoded value by running the commands below. The decoded value will be in XML format.
+Right-click on the `SAMLRequest:` payload --> click on `copy value` and paste it into the text file. Decode the base64 encoded value by running the commands below. The decoded value will be in XML format.
 
 ```bash
 vi samlrequest.txt
@@ -52,7 +52,7 @@ cat samlrequest.txt | base64 -d > samlrequest.xml
 ```
 
 ### Searching for the TLS certificate within the request for analyzing
-Open the XML file in Notepad or the text editor of your choice and search for XML tag `<`ds:X509Certificate>`. You will see the base64 encoded value again.
+Open the XML file in Notepad or the text editor of your choice and search for XML tag `<ds:X509Certificate>`. You will see the base64 encoded value again.
 
 ![xmlfile](https://onedrive.live.com/embed?resid=3ac474c28157d633%21343268&authkey=%21ABuJCPsOEVVlZW0&width=1396&height=627)
 
