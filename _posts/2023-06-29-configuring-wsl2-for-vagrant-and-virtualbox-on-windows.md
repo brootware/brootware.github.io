@@ -2,11 +2,11 @@
 layout: post
 title: Configuring Wsl2 for Vagrant and Virtualbox on Windows
 categories:
-- Projects
-- Automation
+- General-tech
+- Virtualization
 tags:
-- Projects
-- Automation
+- General-tech
+- Virtualization
 - Bash
 date: 2023-06-29 09:28 +0800
 ---
