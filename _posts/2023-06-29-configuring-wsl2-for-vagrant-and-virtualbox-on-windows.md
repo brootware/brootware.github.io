@@ -11,7 +11,7 @@ tags:
 date: 2023-06-29 09:28 +0800
 ---
 # Introduction
-I have recently moved back to using windows as the new apple M1 and M2 chips are not compatible with running vagrant and virtualbox. As someone who likes to run labs locally without breaking the bank spending a lot on Apple hardware. I had to find alternatives and being a mac user since 2018, I was overwhelmed with options avaialble in Windows ecosystem. I came across Lenovo's Thinkpad Z16 which is a very close competitor to build quality of a macbook. So I purchased it over the Christmas prior to the GST(Goods Service Tax) hikes in Singapore.
+I have recently moved back to using Windows as the new Apple M1 and M2 chips are not compatible with running vagrant and virtualbox. As someone who likes to run labs locally without breaking the bank spending a lot on Apple hardware. I had to find alternatives and being a Mac user since 2018, I was overwhelmed with options available in Windows ecosystem. I came across Lenovo's Thinkpad Z16 which is a very close competitor to build quality of a macbook. So I purchased it over Christmas before the GST(Goods Service Tax) hikes in Singapore.
 
 This is a quick blog entry to note down the steps I had gone through to refer back to later in case I need to set it up again.
 
