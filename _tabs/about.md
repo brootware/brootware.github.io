@@ -15,7 +15,7 @@ Welcome! This is a personal blog site to share my CTF writeups, Cyber Defense (B
 
 ## Some of my credentials
 
-<a href="https://www.credly.com/users/oaker-min/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Oaker%20Min-brightgreen" /></a>   <a href="https://cyberdefenders.org/profile/brootware"><img src="https://img.shields.io/badge/cyberdefenders.org-rootware-blue" /></a>
+<a href="https://www.credly.com/users/oaker-min/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Oaker%20Min-brightgreen" /></a>   <a href="https://cyberdefenders.org/profile/brootware"><img src="https://img.shields.io/badge/cyberdefenders.org-brootware-blue" /></a>
 
 <script src="https://tryhackme.com/badge/242534"></script>
 
