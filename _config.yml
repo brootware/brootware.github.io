@@ -23,7 +23,7 @@ title: (B)rootware Research # the main title
 tagline: Cyber Security, Platform/Reliability Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog for CTF writeups, Cyber Security & Defense (Blue) Team Techniques, other side projects and research by Oaker Min (Bruce).
+  A blog for CTF writeups, Security Engineering/Cyber Defense (Blue Team) Techniques, other side projects and research by Oaker Min (Bruce).
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://brootware.github.io"
