@@ -21,10 +21,12 @@ This is a quick blog entry to note down the steps I had gone through to refer ba
 
 Below are the steps in order. Do note that **vagrant versions installed on both Windows Native and WSL2 has to be same** for this to work.
 * Enable WSL2 from additional window feature.
+* Install vagrant in wsl2 distro.
+* Check for the version of vagrant installed by running `vagrant -v` in your wsl2.
 * Install vagrant in windows powershell via `winget` or `choco` or `scoop`.
+  * For `winget` we can install specific version of vagrant by running `winget install vagrant -v <version-number>`.
 * Install virtualbox in windows.
-* Install Vagrant WSL2 according to your linux distro https://developer.hashicorp.com/vagrant/downloads.
-* Check for the version of vagrant installed by running `vagrant -v` in powershell and WSL2. Ensure they are the same version.
+* For one last time, check for the version of vagrant installed by running `vagrant -v` in powershell and WSL2. Ensure they are the same version.
 * If not, go directly to source URL to download the same versions of windows msi and linux package to install locally. https://releases.hashicorp.com/vagrant
   * Windows installation will end with `*.msi` and Ubuntu would be `*.deb`.
 * Add these environment variables to either `.bashrc` or `.zshrc`
