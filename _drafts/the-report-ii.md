@@ -1,10 +1,9 @@
 ---
 layout: post
-title: The Report 2 - Blue Team Labs Online
-categories: [CTF, Reverse-Engineering, Threat-Hunting]
-tags: [CTF, Malware-Analysis, Incident-Response, Blue-team]
+title: The Report II
+categories: [CTF, General-Skills]
+tags: [CTF, General-Skills]
 ---
-
 Question 1) Submit the name of the units/teams (in short form) that are responsible for maintaining network and other IT equipment, incident detection and response, and security compliance and risk measurement (Format: Team1, Team2, Team3) (1 points)
 NOC (Network Operations Center), SOC (Security Operations Center), ISCM (Information Security Continuous Monitoring)
 
