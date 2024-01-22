@@ -22,3 +22,49 @@ Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.c
 <!-- width="700" height="900" frameborder="0" scrolling="no" -->
 <iframe width="700" height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiSgD6qKf3_YvW30kzh8F0TqxlrKnj-NHO60CM_Oj8fq8etO66BDEyWM329ztpO1biYcHnp1zSCg_C/pubhtml?widget=true&amp;headers=false"></iframe>
 
+## Neovim Cheatsheet
+
+    <Leader> - (Spacebar)
+        Open sidebar: 1
+        Move a file: m
+        Delete a file: d
+
+    File Navigation
+        Top of file: gg
+        Bottom of file: G
+        Start of line: 0
+        End of line: $
+        Fast forward: e
+        Fast Backward: Option <-
+
+    Find and Replace
+        Find a file: <leader>ff
+        Search across codebase: <leader>sg
+        Find and replace (local): :%s/toReplace/replace/g
+
+    Splitting Windows
+        Split horizontally: <leader>-
+        Split vertically: <leader>|
+        Navigate windows: ctrl + (h/j/k/l)
+
+    LSP (Language Server Protocol)
+        Go to definitions: gd
+        Autocomplete
+        Hover documentation: K
+        Smart replace: <leader>cre
+        Format: <leader>cff
+        Code actions: <leader>cag
+        Remove unused imports: <leader>cR
+        Organize imports: <leader>co
+
+    Other Operations
+        Switch buffers
+        Line numbers
+            Disable/enable: <leader>ul
+            Go to line number: linenumber (j/k)
+        Open terminals: <leader>ft
+        Explore
+            Add a file: %
+            Add a folder: d
+        Undo, redo, delete, visual mode
+        Find and reach
