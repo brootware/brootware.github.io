@@ -6,9 +6,7 @@ categories:
 - Misc
 tags:
 - General-tech
-- Misc
-- task-scheduler
-- cron-jobs
+
 ---
 
 ## Summary
