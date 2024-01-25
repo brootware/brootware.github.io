@@ -17,10 +17,12 @@ This is a quick blog entry cheatsheet for system administrators to refer to quic
 > For most of the long linux commands, I'd suggest using aliases that can be setup together with [dotfiles](https://github.com/brootware/dotfiles)
 {: .prompt-tip }
 
-Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.com/spreadsheets/d/1ma_Zrw_muORAMhoIJ6LgknzkJnEtAdWdk4b6k6LF5mI/edit?usp=sharing)
-> This cheat sheet is best viewed from a laptop or a tablet.
+<!-- Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.com/spreadsheets/d/1ma_Zrw_muORAMhoIJ6LgknzkJnEtAdWdk4b6k6LF5mI/edit?usp=sharing) -->
+
 <!-- width="700" height="900" frameborder="0" scrolling="no" -->
 <iframe width="700" height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiSgD6qKf3_YvW30kzh8F0TqxlrKnj-NHO60CM_Oj8fq8etO66BDEyWM329ztpO1biYcHnp1zSCg_C/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/app1rMiiWF5uDu0DD/shrRZc1wJr8NU2XU2?backgroundColor=greenDusty" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Neovim Cheatsheet
 
