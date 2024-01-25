@@ -28,6 +28,7 @@ Source link can be found here - [Handy Sysadmin Cheatbook](https://docs.google.c
         Open sidebar: 1
         Move a file: m
         Delete a file: d
+        Toggle a terminal: ft
 
     File Navigation
         Top of file: gg
