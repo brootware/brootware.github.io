@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Picoctf - Network Forensics Challenges
+title: Network Forensics Challenges
 categories:
 - CTF
 - Forensics
