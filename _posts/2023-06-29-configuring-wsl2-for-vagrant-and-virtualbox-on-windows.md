@@ -3,7 +3,7 @@ layout: post
 title: Configuring Wsl2 for Vagrant and Virtualbox on Windows
 categories:
 - General-tech
-- Virtualization
+- Home-lab
 tags:
 - General-tech
 - Virtualization

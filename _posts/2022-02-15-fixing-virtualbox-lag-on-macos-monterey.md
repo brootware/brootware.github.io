@@ -3,7 +3,7 @@ layout: post
 title: Fixing Virtualbox lag on macOS Monterey 🔧
 categories:
 - General-tech
-- Virtualization
+- Home-lab
 tags:
 - General-tech
 - Virtualization
