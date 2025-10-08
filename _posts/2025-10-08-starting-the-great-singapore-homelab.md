@@ -48,6 +48,6 @@ You can also check out the official documentation at <https://www.proxmox.com/en
 
 ## Footnote
 
-While I'll still be keeping this blog, I will have less time to update it. So you'll see me more active at [The Great Singapre Homelab](greatsghomelab.github.io)!
+While I'll still be keeping this blog, I will have less time to update it. So you'll see me more active at [The Great Singapre Homelab](https://greatsghomelab.github.io)!
 
 ![That's all folks!](https://cdn.looneytuneswiki.com/thumb/3/31/That%27s_all_folks%21_%28LTC%29.png/640px-That%27s_all_folks%21_%28LTC%29.png)
