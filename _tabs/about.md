@@ -6,9 +6,8 @@ order: 4
 
 ## What's this blog about?
 
-> [! TIP]
-> I have started a new blog documenting all the steps for having a small homelab in Singapore!
-> Check it out at https://greatsghomelab.github.io/
+> I have started a new blog documenting all the steps for having a small homelab in Singapore! Check it out at https://greatsghomelab.github.io/
+{: .prompt-tip }
 
 Welcome! This is a personal blog to share my CTF writeups, Security Engineering/Cyber Defense (Blue Team) Techniques, other side projects and research. You may find me on various CTF sites or social media platforms as **brootware** or **rootware**
 
