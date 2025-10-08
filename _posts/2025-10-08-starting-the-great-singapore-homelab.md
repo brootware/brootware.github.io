@@ -22,7 +22,9 @@ I've decided to start [The Great Singapre Homelab](https://greatsghomelab.github
 
 Long story short: I needed a personal lab environment that I can run 24/7 at home and is free of cloud subscriptions to prepare for the Giac Certified Intrusion Analyst exam. The lab has to be power efficient, small and should not take up too much space.
 
-## Components of running a mini lab
+## So you want to start 1 too?
+
+Well, that's the point of <https://greatsghomelab.github.io>. These are mostly transcript to the videos I'm making on the Youtube Channel. 
 
 It could get overwhelming when you first start out. So my recommendation is if you have an old PC lying around at home: That's where you start!
 
