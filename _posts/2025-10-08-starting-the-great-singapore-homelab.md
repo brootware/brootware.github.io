@@ -16,7 +16,7 @@ This is a quick update of this blog as I have not been been posting much lately 
 
 ![goodnews!](https://media.tenor.com/AyjdnbCSflEAAAAM/good-news-everyone-hubert.gif)
 
-I've decided to start [The Great Singapre Homelab](greatsghomelab.github.io). Very often when i come across a weird situation in my homelab, I would dump all the notes into Anytype (An obsidian like peer to peer note taking app). In a blink, I've buit up a library of KB that I feel like I've been gate keeping. So this is my way of sharing information and "gotchas" I faced at both work and in the lab. 
+I've decided to start [The Great Singapre Homelab](https://greatsghomelab.github.io). Very often when i come across a weird situation in my homelab, I would dump all the notes into Anytype (An obsidian like peer to peer note taking app). In a blink, I've buit up a library of KB that I feel like I've been gate keeping. So this is my way of sharing information and "gotchas" I faced at both work and in the lab. 
 
 ## How did I get into homelab?
 
