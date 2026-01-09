@@ -20,7 +20,7 @@ Welcome! This is a personal blog to share my CTF writeups, Security Engineering/
 
 <a href="https://www.credly.com/users/oaker-min/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Oaker%20Min-brightgreen" /></a>
 
-<a href="https://pwn.college/hacker/1207"><img src="https://img.shields.io/badge/pwncollege-brootware-yellow" /></a>
+<a href="https://pwn.college/hacker/1207"><img src="https://img.shields.io/badge/pwn.college-brootware-yellow" /></a>
 <a href="https://www.wechall.net/profile/brootware"><img src="https://img.shields.io/badge/wechall.net-brootware-blue" /></a>
 <a href="https://echoctf.red/profile/289749"><img src="https://img.shields.io/badge/echoctf.red-brootware-red" /></a>
 
