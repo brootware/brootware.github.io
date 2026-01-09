@@ -19,10 +19,10 @@ Welcome! This is a personal blog to share my CTF writeups, Security Engineering/
 ## My credentials and CTF rankings
 
 <a href="https://www.credly.com/users/oaker-min/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Oaker%20Min-brightgreen" /></a>
-<a href="https://pwn.college/hacker/1207"><img src="https://img.shields.io/badge/pwncollege-brootware-black" /></a>
-<a href="https://www.wechall.net/profile/brootware"><img src="https://img.shields.io/badge/wechall.net-brootware-blue" /></a>
 
-[![echoCTF badge](https://echoctf.red/profile/289749/badge)](https://echoctf.red/profile/289749)
+<a href="https://pwn.college/hacker/1207"><img src="https://img.shields.io/badge/pwncollege-brootware-yellow" /></a>
+<a href="https://www.wechall.net/profile/brootware"><img src="https://img.shields.io/badge/wechall.net-brootware-blue" /></a>
+<a href="https://echoctf.red/profile/289749"><img src="https://img.shields.io/badge/echoctf.red-brootware-red" /></a>
 
 <!-- <a href="https://cyberdefenders.org/profile/brootware"><img src="https://img.shields.io/badge/cyberdefenders.org-brootware-blue" /></a> -->
 <!-- <script src="https://tryhackme.com/badge/242534"></script> -->
